@@ -1,0 +1,22 @@
+CC-BY-NC-4.0
+Creative Commons Attribution-NonCommercial 4.0 International Public License
+
+---
+
+### PROJECT AQUA-NEPTUNE AUTHOR MANDATE & RESTRAINTS
+
+1. This framework is open-source and free for humanity.
+2. Commercial usage, private corporate patenting, or locking this technology behind financial paywalls is strictly prohibited.
+3. Mandatory attribution and mention of the original author (Toni Avantaggiato) is legally required for all implementations, structural simulations, and derivatives.
+
+---
+
+### OFFICIAL CREATIVE COMMONS PUBLIC LICENSE TERMS
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+
+Section 1 – Scope & License Grant.
+Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to reproduce, share, and produce adapted material for NonCommercial purposes only.
+
+For the full legal code of this license, visit:
+http://creativecommons.org
